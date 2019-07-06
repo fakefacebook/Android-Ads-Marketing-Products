@@ -2,7 +2,7 @@
 
 ### Ad Networks
 
- -Applovin 
+ #### Applovin 
   - https://www.applovin.com/
   - https://github.com/AppLovin/Android-SDK-Demo
  
@@ -10,6 +10,6 @@
  
  ### App Promotion Tools
 
--Batch
+#### Batch
 - https://batch.com/
 - https://github.com/BatchLabs/android-sdk
