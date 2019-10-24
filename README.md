@@ -18,6 +18,9 @@
   - https://unityads.unity3d.com/help/monetization/getting-started
   - https://github.com/Unity-Technologies/unity-ads-android
   
+ #### Appnext 
+  - https://www.appnext.com/
+  - https://github.com/appnext/appnext_android_sdk_examples
 
   
 
